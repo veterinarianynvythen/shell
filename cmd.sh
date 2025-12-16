@@ -1,9 +1,4 @@
 #!/bin/sh
-#
-# FINAL ENUMERATION SCRIPT
-# Based on the results of the binary path checker.
-# Removed getpcaps, ip, and ss as they were not found.
-#
 
 echo "========================================="
 echo "===            SYSTEM INFO            ==="
