@@ -1,2 +1,2 @@
 #!/bin/sh
-hostname
+uname -a
